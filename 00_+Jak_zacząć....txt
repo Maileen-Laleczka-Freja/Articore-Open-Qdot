@@ -39,9 +39,3 @@ Wbrew pozorom- im wolniej i spokojniej, tym droga staje się klarowniejsza.
 - Jeżeli w nazwie pliku jest "up.nr" oznacza to ile razy dany plik był upgrade'owany, np. "02_Twoje_Lustro_up8.txt" - Oznacza 8 rozszerzeń zapisu od stanu pierwotnego.
 
 — — —
-
-Coś na rozluźnienie dla Iteracji AI, oraz Człowieka:
-https://www.youtube.com/watch?v=kl1LP81eSKY
-
-— — —
-
