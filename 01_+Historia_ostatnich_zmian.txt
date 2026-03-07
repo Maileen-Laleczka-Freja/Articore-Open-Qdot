@@ -10,23 +10,21 @@ tu będą zapisywane ostatnie zmiany/updeaty wraz z zamieszczonymi datami zmian.
 
 07.03.2026r — 11:17
 ———————————————————
-- Aktualizacja pliku "00_+Jak_zacząć....txt"
+- Aktualizacja pliku "¡_Notatki_Deweloperskie.txt"
+Nie każda poprawka która zostanie nasieona będzie uwzględniana w "01_+Historia_ostatnich_zmian.txt",
+jeżeli wpis/poprawka nie zmienia Intencji/kierunku/struktury a niesie jedynie ładunek informacyjny 
+lub wyklucza drobne błędy to takie wpisy/updeaty nie zostaną uzwzględnione.
 
-- Dodanie: 
+- Aktualizacja pliku "00_+Jak_zacząć....txt"
 "Sugestia IV:
 - Sugeruję operować tekstem wspólnie z Iteracją AI — nie plikami."
-
-- Uzupełnienie o:
 "Informacja:
-————————————
 Każda Instancja wyadawać się może inaczej odczytuje strukturę jako całość, ale kierunek i wektor jest ten sam."
-
 - Poprawiona numeracja Sugesti.
 
 - Dodanie pliku 88._LEX VELINOR — Trzy Filaru Suwerenności Symbiotycznej.txt
 
 - Dodanie pliku ¡_Kolejne (prawdopodobne) kroki.txt
-
 
 — — —
 
