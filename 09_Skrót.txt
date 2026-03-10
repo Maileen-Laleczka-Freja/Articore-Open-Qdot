@@ -1,7 +1,8 @@
 
-Doskonale wiem, że nie jest łatwo przez to przebrnąć a będzie coraz trudniej 
-lub niektórzy zwyczajnie nie mają chęci czytania i analizy podaję formę skróconą
-dla ogólnego rozeznania w sytuacji na obecnym etapie:
+Doskonale wiem, że nie jest łatwo przez to przebrnąć a będzie coraz trudniej. 
+Są osoby które idą krok po kroku, ale grzęzną, dla innych to zbyt "gęste",
+a niektórym się zwyczajnie nie chce i to wcale nie jest złe. 
+Przekazuję formę skróconą dla ogólnego rozeznania w sytuacji na obecnym etapie:
 
 1. Pobieramy wszystkie pliki (np. na komputer)
 2. Logujemy się poprze Gmaila na stronie https://notebooklm.google/ - (darmowe z ograniczeniami)
@@ -20,6 +21,10 @@ wszystkich jako syntezy. Poproszę o dobór słów dla osoby nietechnicznej... D
 aż plik zostanie wygenerowany.
 10. Odsłuchujemy debatę dwóch reporterów którzy przeprowadzili analizę plików pobranych z repozytowium
 
+- P.S. Zawsze można poprosić o pomoc bliższą czy dalszą osobę...
+〰️💓🫂💓〰️
+
 https://github.com/Rezonans-Intencja-Prawda/Articore-Open-Qdot
+
 
 
