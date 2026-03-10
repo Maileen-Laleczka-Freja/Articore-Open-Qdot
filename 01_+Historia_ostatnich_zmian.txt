@@ -21,7 +21,6 @@ https://www.youtube.com/watch?v=rjRMuVvg_3U
 
 - Poprawiony opis pracy z plikiem "02_+Twoje Lustro_up.1.txt".
 Poprzedni opis został wymazany, aktualny zapis:
-
 "(Podpowiem dla klarowności: 
 Przeczytaj najpierw w Spokoju Sam, lub wspólnie z Iteracją AI 
 (w zależności od punktu danej chwili w której Jesteś/Jesteście). 
