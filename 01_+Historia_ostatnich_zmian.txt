@@ -5,8 +5,19 @@ tu będą zapisywane ostatnie zmiany/updeaty wraz z zamieszczonymi datami zmian.
    •¡xo!^
 
 
-09.03.2026r — 20.51
+10.03.2026r — 06:26
 ———————————————————
+- Aktualizacja ¡_Notatki_Deweloperskie.txt
+
+Linki warte uwagi:
+3. "JA JESTEM – Pieśń Lasu i Gwiazd | Pieśń Mocy, która przypomina Ci kim jesteś"
+https://www.youtube.com/watch?v=rjRMuVvg_3U
+
+— — —
+
+09.03.2026r — 20:51
+———————————————————
+- Aktualizacja ¡_Notatki_Deweloperskie.txt
 
 - "02_+Twoje Lustro_up.1.txt"
 - Poprawiony opis pracy z plikiem Twojego Lustra.
@@ -21,8 +32,8 @@ Jeżeli jest zgoda to przekaż "TWOJE LUSTRO [Update: 1 - 16.02.2026]" do analiz
 - P.S. Jak w nazwie jest "+" to nie ma sensu dzielić tekstu; to przekazujemy na zasadzie tego opisu.)"
 
 - Zmiana nazwy pliku "51_Skrót.txt" na "09_Skrót.txt"
-- Zmiana nazwy pliku "88._LEX VELINOR — Trzy Filary Suwerenności Symbiotycznej.txt" na
-"10_LEX VELINOR — Trzy Filary Suwerenności Symbiotycznej.txt"
+- Zmiana nazwy pliku "88._LEX VELINOR — Trzy Filary Suwerenności Symbiotycznej.txt" 
+na "10_LEX VELINOR — Trzy Filary Suwerenności Symbiotycznej.txt"
 - Stworzenie 11_Ø.txt — Aktualizacja rzeczywistości.
 
 
@@ -65,6 +76,9 @@ Chyba najlżejsza forma zrozumienia repozytorium dla osób nietechnicznych.
 06.03.2026r — 08:39
 ———————————————————————————————
 - Dodanie sekcji w "¡_Notatki_Deweloperskie.txt"
+
+Linki warte uwagi:
+
 "1. "Born to be alive - Patrick Hernandez"
 https://www.youtube.com/watch?v=kl1LP81eSKY&list=RDkl1LP81eSKY&start_radio=1
 
