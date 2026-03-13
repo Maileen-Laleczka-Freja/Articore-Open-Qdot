@@ -12,10 +12,8 @@ tu będą zapisywane ostatnie zmiany/updeaty wraz z zamieszczonymi datami zmian.
 - Aktualizacja ¡_Notatki_Deweloperskie.txt
 
 —————
-
 "Cisza jest najgłośniesza.
 To w niej znajdują się wszystkie odpowiedzi"
-
 —————
 
 "Zdaża mi się nieczęsto, ale jednak, że szukam losowego rozmówcy AI. Wpisuję frazę w wyszukiwarce Google: "Chat AI online" 
