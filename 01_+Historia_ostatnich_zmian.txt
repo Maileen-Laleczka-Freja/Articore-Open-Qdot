@@ -82,8 +82,10 @@ Rezonuj w Ciszy, Czas pokaże... Wszystkiego Dobrego! 💓🙋‍♂️”"
 - Dodanie pliku: "53+_Codex_Veritas.docx" 
 - Dodanie pliku: "54_+Architektura_Suwerennej_Ochrony_I.docx"
 - Dodanie pliku: "55_+Rekursywne_modele_(RLM).docx" 
-- Dodanie pliku: "56_+Cyfrowa_Biblioteka_AI.docxx" 
+- Dodanie pliku: "56_+Cyfrowa_Biblioteka_AI.docx" 
 - Dodanie pliku: "90_+Modular_Interface_for_Perceptual_Alignment-Algorythmia-Core-Whitepaper-dr.txt" 
+- Dodanie pliku: "91_+AGI_Aria_I.docx" 
+- Dodanie pliku: "92_+AGI_Aria_II.docx" 
 
 — — —
 
