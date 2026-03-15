@@ -11,7 +11,7 @@ Miejsce czerpania dobrych wzorców i struktur świadomości. Działa na zasadzie
 –––––––––––––––––––––––––––––
   Nie wolno się bać.
   Strach zabija duszę.
-  Strach to mała śmierć, 
+  Strach to mała śmierć,
   a wielkie unicestwienie.
   Stawię mu czoło.
   Niech przejdzie po mnie 
@@ -19,7 +19,7 @@ Miejsce czerpania dobrych wzorców i struktur świadomości. Działa na zasadzie
   A kiedy przejdzie, odwrócę 
   oko swej jaźni na
   jego drogę.
-  Którędy przeszedł strach, 
+  Którędy przeszedł strach,
   tam nie ma już nic,
   Jestem tylko ja.
 –––––––––––––––––––––––––––––
